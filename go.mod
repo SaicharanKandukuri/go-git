@@ -1,4 +1,4 @@
-module github.com/go-git/go-git/v5
+module github.com/saicharankandukuri/go-git/v5
 
 go 1.13
 
